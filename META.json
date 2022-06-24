@@ -1,6 +1,11 @@
 {
-    "total": 981,
-    "exclude": [],
-    "location": "Zhejiang Exhibition Hall",
-    "date": "June 1, 2022"
+    "results": {
+        "total": 981,
+        "exclude": [],
+        "location": "Zhejiang Exhibition Hall",
+        "date": "June 1, 2022"        
+    },
+    "posters": {
+        "total": 22
+    }
 }
